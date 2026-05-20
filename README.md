@@ -25,7 +25,6 @@ Since August 2025 I'm based in **Dortmund, Germany**, actively seeking **Senior 
 | 🗄️ SQL & ETL | SSIS pipelines, data quality management, warehouse design |
 | 🐍 Python | Pandas, NumPy, Matplotlib — EDA, ML pipelines, automation |
 | ⚙️ Power Platform | Power Automate (saved 25–40 hrs/month), Power Apps |
-| ☁️ Cloud | Azure, SSAS, data warehouse architecture |
 | 🤖 Generative AI | LangChain, prompt engineering, AI in BI workflows (current focus) |
 | 🤝 Leadership | Technical lead for 40-person team across 35 departments |
 
