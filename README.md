@@ -57,7 +57,6 @@ Since August 2025 I'm based in **Dortmund, Germany**, actively seeking **Senior 
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=flat)
-![IBM Big Data](https://img.shields.io/badge/IBM%20Big%20Data-052FAD?style=flat&logo=ibm&logoColor=white)
 
 ---
 
