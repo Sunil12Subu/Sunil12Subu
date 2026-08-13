@@ -13,7 +13,7 @@
 
 I'm a Senior Data Analyst and BI Specialist with **4+ years of experience** turning complex data into decisions. Most recently, I led the Business Intelligence function at **Tamil Nadu e-Governance Agency (TNeGA)** — the state digital authority for Tamil Nadu, India (~80 million citizens) — where I owned **500+ Power BI dashboards** across 35 government ministries and led a **40-person cross-functional team**.
 
-Since August 2025 I'm based in **Dortmund, Germany**, actively seeking **Senior Data Analyst, BI Developer, or Power BI Lead** roles in Germany or the EU. I speak German (sehr gut), English (fluent), and Tamil (native).
+Actively seeking **Senior Data Analyst, BI Developer, or Power BI Lead** roles. I speak German (sehr gut), English (fluent), and Tamil (native).
 
 ---
 
@@ -47,11 +47,6 @@ Since August 2025 I'm based in **Dortmund, Germany**, actively seeking **Senior 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
-**Cloud & Infrastructure**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Current upskilling (2025–2026)**
 
@@ -123,7 +118,7 @@ I'm immediately available for **Senior Data Analyst, BI Developer, or Power BI L
 
 - 📧 [sunil.subramaniam.s@gmail.com](mailto:sunil.subramaniam.s@gmail.com)
 - 💼 [linkedin.com/in/sunil-subramaniam-sreedhar](https://linkedin.com/in/sunil-subramaniam-sreedhar)
-- 📍 Dortmund, Germany — open to relocation within Germany or EU
+- 📍 Open to relocation within India
 
 > 💡 Power BI dashboard architecture samples and SQL ETL scripts available on request — reach out directly.
 
