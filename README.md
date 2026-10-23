@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunil-subramaniam-sreedhar)
 [![Email](https://img.shields.io/badge/Email-sunil.subramaniam.s%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sunil.subramaniam.s@gmail.com)
-[![Location](https://img.shields.io/badge/📍%20Dortmund-Germany-555555?style=flat)](https://www.google.com/maps/place/Dortmund)
+[![Location](https://img.shields.io/badge/📍%20Chennai-India-555555?style=flat)](https://www.google.com/maps/place/Dortmund)
 [![Availability](https://img.shields.io/badge/Status-Open%20to%20work-brightgreen?style=flat)](https://linkedin.com/in/sunil-subramaniam-sreedhar)
 
 ---
