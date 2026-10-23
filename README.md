@@ -1,6 +1,6 @@
 # Sunil Subramaniam Sreedhar
 
-### Senior Data Analyst · Business Intelligence Specialist
+### Senior Data Analyst · Business Intelligence Specialist . Data Scientist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunil-subramaniam-sreedhar)
 [![Email](https://img.shields.io/badge/Email-sunil.subramaniam.s%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sunil.subramaniam.s@gmail.com)
@@ -13,7 +13,7 @@
 
 I'm a Senior Data Analyst and BI Specialist with **4+ years of experience** turning complex data into decisions. Most recently, I led the Business Intelligence function at **Tamil Nadu e-Governance Agency (TNeGA)** — the state digital authority for Tamil Nadu, India (~80 million citizens) — where I owned **500+ Power BI dashboards** across 35 government ministries and led a **40-person cross-functional team**.
 
-Actively seeking **Senior Data Analyst, BI Developer, or Power BI Lead** roles. I speak German (sehr gut), English (fluent), and Tamil (native).
+Actively seeking **Senior Data Analyst, BI Developer, Data Scientist or Power BI Lead** roles. I speak English (fluent), German (sehr gut) and Tamil (native).
 
 ---
 
@@ -37,8 +37,6 @@ Actively seeking **Senior Data Analyst, BI Developer, or Power BI Lead** roles. 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=microsoftpowerautomate&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat&logo=powerapps&logoColor=white)
 
 **Data Engineering & Languages**
 
@@ -46,7 +44,6 @@ Actively seeking **Senior Data Analyst, BI Developer, or Power BI Lead** roles. 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 **Current upskilling (2025–2026)**
 
